@@ -36,4 +36,3 @@ For the encryption purpose, we have used numerical methods to determine the root
 
 ***
 
-<p align='center'>Created with :heart: by <a href="https://github.com/MumukshTayal">Mumuksh Tayal</a></p>
